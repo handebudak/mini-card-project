@@ -25,5 +25,3 @@ import {placeholderPropertyObj} from "./properties/placeholderPropertyObj.js"
 }
 
 document.getElementById('container').innerHTML = getPropertyHtml(propertyForSaleArr) 
-
-console.log('hande')
